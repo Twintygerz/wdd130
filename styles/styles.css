@@ -1,0 +1,32 @@
+main {
+    max-width: 900px;
+}
+
+aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 0cap;
+    padding: 0%;
+    background-color: darkturquoise;
+    color: chartreuse;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+}
+
+p{
+    padding: 0;
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 10px;
+    text-align: center;
+}
