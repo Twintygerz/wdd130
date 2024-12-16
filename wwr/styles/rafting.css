@@ -96,7 +96,8 @@ img {
 #employee-profiles {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
+    grid-gap: 1.5rem;
 }
 
 .profile {
@@ -130,7 +131,7 @@ form input, form textarea {
 }
 
 form button {
-    background-color: #0438a8; /* Green */
+    background-color: #000000; /* Green */
     color: white;
     padding: 10px;
     border: none;
